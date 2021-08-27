@@ -1,1 +1,2 @@
-# glowing-python-journey
+# Glowing Python Journey
+
