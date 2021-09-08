@@ -102,6 +102,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+employee_v1.py
+employee.py
+paragraph.py
 .env
 .venv
 env/
