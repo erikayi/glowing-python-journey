@@ -7,7 +7,7 @@ The company recently decided to purchase a new HR system, and unfortunately for 
 
 My task is to help bridge the gap by using Pandas to convert your employee records to the required format. 
 
-(First, I used Python script to do all these tasks, but Pandas was much faster and comfortable in the job process.)
+(First, I used Python script to do all these tasks, but I ended up using Pandas because it was much faster and comfortable in the working process.)
 
 In my Jupyter notebook, my data includes: 
 
